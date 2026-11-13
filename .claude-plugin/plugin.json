@@ -1,0 +1,11 @@
+{
+  "name": "factorio",
+  "displayName": "Factorio",
+  "description": "Factorio 2.0 helper that tests blueprints in a headless copy of the game before handing them over, reads your own save to tell you what to fix next, manages mods and answers from the real game files instead of memory.",
+  "version": "1.3.0",
+  "author": { "name": "AleCadz", "url": "https://mods.factorio.com/user/AleCadz" },
+  "homepage": "https://github.com/AleCadz/factorio-skill",
+  "repository": "https://github.com/AleCadz/factorio-skill",
+  "license": "MIT",
+  "keywords": ["factorio", "blueprints", "games", "mods", "simulation", "headless"]
+}

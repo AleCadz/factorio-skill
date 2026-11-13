@@ -1,0 +1,15 @@
+{
+  "name": "factorio-skill",
+  "owner": {
+    "name": "AleCadz",
+    "url": "https://github.com/AleCadz"
+  },
+  "description": "Factorio 2.0 skill for Claude Code: blueprints tested in headless Factorio, save analysis, mod management.",
+  "plugins": [
+    {
+      "name": "factorio",
+      "source": "./",
+      "description": "Test blueprints in headless Factorio, read your save, manage mods. Factorio 2.0."
+    }
+  ]
+}
