@@ -6,7 +6,7 @@ juego para comprobar lo que hace, en vez de fiarse de lo que recuerda de la 1.1.
 
 [Read in English](README.md)
 
-<!-- ![demo](docs/demo.gif) -->
+![Pedir acero, el plano probado y el plano funcionando en Factorio](docs/demo.gif)
 
 ## Qué hace
 

@@ -6,8 +6,7 @@ its work, instead of guessing from what it remembers about 1.1.
 
 [Leer en español](README.es.md)
 
-<!-- Record a short clip of: asking for a blueprint → simulation output → Ctrl+V in game. Save it as docs/demo.gif -->
-<!-- ![demo](docs/demo.gif) -->
+![Asking for steel, the tested blueprint, and the blueprint running in Factorio](docs/demo.gif)
 
 ## What it does
 
