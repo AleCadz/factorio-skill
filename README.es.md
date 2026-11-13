@@ -1,10 +1,10 @@
 # Skill de Factorio para Claude Code
 
 **Planos que se prueban antes de pegarlos.** Una skill de [Claude Code](https://claude.com/claude-code)
-para Factorio 2.0 que responde con los archivos reales de tu juego y ejecuta una copia sin gráficos del
+para Factorio 2.0 y 2.1 que responde con los archivos reales de tu juego y ejecuta una copia sin gráficos del
 juego para comprobar lo que hace, en vez de fiarse de lo que recuerda de la 1.1.
 
-[Read in English](README.md)
+[Read in English](README.md) · Versión actual: 1.3.0 ([cambios](CHANGELOG.md))
 
 ![Pedir acero, el plano probado y el plano funcionando en Factorio](docs/demo.gif)
 
@@ -43,7 +43,7 @@ configuración, así que puede ejecutarse mientras juegas.
 
 ## Instalación
 
-Necesitas [Claude Code](https://claude.com/claude-code), Python 3.8 o superior y Factorio 2.0 instalado
+Necesitas [Claude Code](https://claude.com/claude-code), Python 3.8 o superior y Factorio 2.0 o 2.1 instalado
 en el mismo ordenador (Steam, standalone o instalador; Linux, Windows o macOS).
 
 **Como plugin** (recomendado, recibe actualizaciones):

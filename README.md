@@ -1,10 +1,10 @@
 # Factorio skill for Claude Code
 
 **Blueprints that are tested before you paste them.** A [Claude Code](https://claude.com/claude-code) skill
-for Factorio 2.0 that answers from your game's real files and runs a headless copy of the game to check
+for Factorio 2.0 and 2.1 that answers from your game's real files and runs a headless copy of the game to check
 its work, instead of guessing from what it remembers about 1.1.
 
-[Leer en español](README.es.md)
+[Leer en español](README.es.md) · Current version: 1.3.0 ([changelog](CHANGELOG.md))
 
 ![Asking for steel, the tested blueprint, and the blueprint running in Factorio](docs/demo.gif)
 
@@ -41,9 +41,14 @@ config, so it can run while you play.
 
 That blueprint and the exact commands are in [`examples/`](examples/).
 
+The clip at the top is a different, simpler blueprint: the one-command preset (`bp_make.py smelter --ore
+iron-plate --n 24`). Its quick 3-minute test reports 84 steel/min because the belts are still filling for
+the first two minutes; from minute 3 on all 24 furnaces work and it makes the calculated 90/min (811 plates
+in the following 9 minutes of simulation).
+
 ## Install
 
-You need [Claude Code](https://claude.com/claude-code), Python 3.8+ and Factorio 2.0 installed on the same
+You need [Claude Code](https://claude.com/claude-code), Python 3.8+ and Factorio 2.0 or 2.1 installed on the same
 computer (Steam, standalone or installer; Linux, Windows or macOS).
 
 **As a plugin** (recommended, gets updates):
